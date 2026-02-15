@@ -1,0 +1,5 @@
+{
+  "name": "ReactPod",
+  "description": "Added focus app inside\nAdded playlist functionality\nAdded clear library option\nAdded customization like colour of the ipod \nAdded fun games\nAdded the playing screen shows actual song meta data on my iPhone\nAdded the ability to show the number of songs playing tab in now playing screen\nAdded the ability to add multiple folders of songs\nAdded on device storage\nAdded search, on-the-go playlist option, and rating music option\nAdded shuffle and loop options\nAdded cover flow\nA web-based music player that emulates the classic iPod interface, allowing you to play local music files from your device.",
+  "requestFramePermissions": []
+}
